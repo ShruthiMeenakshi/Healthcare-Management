@@ -7,9 +7,6 @@
 
 using namespace std;
 int main()
-
-//NOTE: RUN THE PROGRAM IN FULL SCREEN ONLY
-
 {
 char fname[20];
 time_t rawtime;
